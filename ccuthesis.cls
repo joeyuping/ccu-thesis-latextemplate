@@ -1,4 +1,5 @@
-% author: 
+% author: 張佑平, 2024/01/18 中正大學電機工程研究所博士生
+
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{ccuthesis}[2024/01/20 Thesis template for National Chung Cheng University]
 
